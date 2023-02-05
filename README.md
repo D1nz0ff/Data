@@ -1,2 +1,2 @@
-# Data
-how a u
+# datascript
+A SIMPLE data script with ability adding additional information
